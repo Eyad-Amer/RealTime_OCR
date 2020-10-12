@@ -30,4 +30,4 @@ This is a project that is a small part of a big project so we have to assemble t
 
 **************************************************************************************************************
 
-<img src="./ocr_GAME.jpg">
+![image](https://user-images.githubusercontent.com/33619392/ocr_GAME.jpg.png)
