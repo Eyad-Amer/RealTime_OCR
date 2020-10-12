@@ -28,6 +28,6 @@ This is a project that is a small part of a big project so we have to assemble t
 
 ![image](https://user-images.githubusercontent.com/33619392/73290681-8615c780-4207-11ea-845d-471c7656b623.png)
 
-**************************************************************************************************************
 
-![image](https://user-images.githubusercontent.com/33619392/ocr_GAME.jpg.png)
+
+
